@@ -3,7 +3,7 @@ Raspberry Piを用いてBuildHATを動作させるのに用いたプログラム
 
 各ファイルの説明  
 Raspberry Pi に搭載して動作させるプログラムが以下の三つ  
-①　edsigucsv.py　シグモイド関数型のバリア関数を搭載したもの  　
+①　edsigucsv.py　シグモイド関数型のバリア関数を搭載したもの  
 ②　ednobariacsv.py　バリア関数非搭載のもの  
 ③　edlinearcsv.py　一次関数型のバリア関数を搭載したもの  
 
